@@ -430,6 +430,7 @@ a {
 }
 
 .portfolio-card {
+  flex-basis: auto;
   margin-right: 30px;
   margin-bottom: 30px;
 }
